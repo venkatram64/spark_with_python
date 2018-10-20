@@ -1,5 +1,10 @@
+NOTE: I am not the author of this code, 
+I have taken code form below github and practiced
+https://github.com/jleetutorial/sparkTutorial
 
-https://github.com/jleetutorial/python-spark-tutorial
+I have give youtube url also, good explaination
+
+
 https://github.com/jleetutorial/sparkTutorial/blob/winutils/winutils.exe
 
 https://www.youtube.com/watch?v=RsALKtZvqFo  (pycharm with spark)
